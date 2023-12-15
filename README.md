@@ -29,6 +29,7 @@ Alternatively, copy the code into Notepad and save it as a .ahk file :3
  - [**vxThreads**](https://github.com/everettsouthwick/vxThreads) -> Threads
  - [**fxreddit**](https://github.com/MinnDevelopment/fxreddit) -> Reddit (Old Reddit is supported)
  - [**tiktxk**](https://github.com/Britmoji/tiktxk) -> Tiktok
+ - Youtube (Tracking string removal only)
 
 ## Examples
 Twitter/X:
@@ -67,4 +68,10 @@ Tiktok:
 ```
 Before: https://www.tiktok.com/@mkbhd/video/7287339659724737838?is_from_webapp=1&sender_device=pc&web_id=3642533489376203008
 After: https://www.vxtiktok.com/@mkbhd/video/7287339659724737838
+```
+
+Youtube:
+```
+Before: https://www.youtube.com/watch?v=56xdTt1Ft3M&pp=ygURS3VydSBrdXJ1lrluqTd1cmE%3D
+After: https://www.youtube.com/watch?v=56xdTt1Ft3M
 ```
