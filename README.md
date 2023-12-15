@@ -14,11 +14,14 @@ When you copy a link to a post, AutoHotKey will recognize what social media it i
 All you need to do is paste it wherever you want.
 
 *TL;DR: Just CTRL+C and CTRL+V*
-## Source Code and AHK Script Download
+## Source Code and Download
 
-[**Click here and press the download icon.**](https://github.com/AlsoAStranger/FixSocials-AHK/blob/main/FixSocials.ahk)
+[**Click here to download the script**](https://github.com/AlsoAStranger/FixSocials-AHK/releases/latest/download/FixSocials.ahk)
 
-Alternatively, copy the code into Notepad and save it as a .ahk file :3
+[**Releases section**](https://github.com/AlsoAStranger/FixSocials-AHK/releases)
+
+Alternatively, [copy the code](https://github.com/AlsoAStranger/FixSocials-AHK/blob/main/FixSocials.ahk) into Notepad and save it as a .ahk file :3
+
 ## Requirements
 
 - [**AutoHotKey**](https://www.autohotkey.com/)
