@@ -1,4 +1,4 @@
-﻿#Persistent
+#Persistent
 
 SetTimer, WatchClipboard, 100
 return
@@ -95,6 +95,18 @@ WatchClipboard:
       
       ; Find the position of "?"
       StringGetPos, pos, Clipboard, ?
+      
+      ; If "?" is found, keep the character before it
+      if (pos > 0)
+         StringTrimRight, Clipboard, Clipboard, % StrLen(Clipboard) - pos
+
+      ; copy to clipboard
+   Clipboard := Clipboard
+   }
+   else if (Clipboard ~= "https?://(?:www\.)?(youtube\.com)/.*")
+   {
+      ; Find the position of "&"
+      StringGetPos, pos, Clipboard, &
       
       ; If "?" is found, keep the character before it
       if (pos > 0)
