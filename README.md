@@ -33,7 +33,7 @@ Alternatively, [copy the code](https://github.com/AlsoAStranger/FixSocials-AHK/b
  - [**fxreddit**](https://github.com/MinnDevelopment/fxreddit) -> Reddit (Old Reddit is supported)
  - [**tiktxk**](https://github.com/Britmoji/tiktxk) -> Tiktok
  - Youtube (Tracking string removal only)
- - Spotify 
+ - Spotify (Tracking string removal only)
 
 ## Examples
 Twitter/X:
