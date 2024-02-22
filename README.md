@@ -33,6 +33,7 @@ Alternatively, [copy the code](https://github.com/AlsoAStranger/FixSocials-AHK/b
  - [**fxreddit**](https://github.com/MinnDevelopment/fxreddit) -> Reddit (Old Reddit is supported)
  - [**tiktxk**](https://github.com/Britmoji/tiktxk) -> Tiktok
  - Youtube (Tracking string removal only)
+ - Spotify 
 
 ## Examples
 Twitter/X:
@@ -77,4 +78,10 @@ Youtube:
 ```
 Before: https://www.youtube.com/watch?v=56xdTt1Ft3M&pp=ygURS3VydSBrdXJ1lrluqTd1cmE%3D
 After: https://www.youtube.com/watch?v=56xdTt1Ft3M
+```
+
+Spotify:
+```
+Before: https://open.spotify.com/track/0B96zn11fA3apNGZqERmPO?si=9db28695ecd443f1
+After: https://open.spotify.com/track/0B96zn11fA3apNGZqERmPO
 ```
